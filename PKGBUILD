@@ -1,7 +1,7 @@
 # Maintainer: Matthew Phillip Cooper <matthew@coopertronic.co.uk>
 pkgname=ctos-kde-splash
 _destname1="/usr"
-pkgver=1
+pkgver=1.r3.7af7b08
 pkgrel=1
 pkgdesc="This installs the Coopertronic OS splash screen globally."
 arch=('any')

@@ -12,9 +12,9 @@
         ],
         "Category": "",
         "Description": "Default Coopertronic OS KDE/Plasma Desktop",
-        "Id": "Coopertronic_Intro",
+        "Id": "Coopertronic-OS",
         "License": "GPLv3+",
-        "Name": "Coopertronic Intro",
+        "Name": "Coopertronic OS splash screen",
         "ServiceTypes": [
             "Plasma/LookAndFeel"
         ],
